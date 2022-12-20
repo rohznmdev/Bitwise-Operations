@@ -1,0 +1,7 @@
+Instructions:
+Run:
+    1. First type make in the command line to create the executable file lab02.
+    2. Then type ./lab02 to run the program.
+    3. For another option to run the program, you can also type make run in the command line.
+Clean:
+    1. To remove all executables and object code, type make clean.
