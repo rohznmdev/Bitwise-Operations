@@ -1,4 +1,4 @@
-NAME = lab02
+NAME = bitwiseOperations
 FLAGS = -Wall -pedantic-errors
 
 cl: ${NAME}.c
